@@ -5,10 +5,10 @@
 
 
 Here's what you need to do:
-1. Search for these [commands](https://www.markdownguide.org/cheat-sheet/) [^1]
+1. Search for these [commands](https://www.markdownguide.org/cheat-sheet/) <sup>1</sup>
 2. Save these commands
-3. Memorize these commands
+3. ==Memorize== these commands
 
 ---
 
-[^1] Markdown Guide
+<sup>1</sup> Markdown Guide
